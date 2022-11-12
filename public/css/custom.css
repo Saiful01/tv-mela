@@ -1,0 +1,16 @@
+/*@font-face {
+    font-family: solaiman_lipi;
+    src: url('SolaimanLipi.ttf');
+}*/
+
+/*@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla:ital@0;1&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100;200;300;400;500;600;700;800&display=swap');
+
+body, p, h1, h2, h3, h4, h5, h6, li, a, li a {
+    /*    font-family: solaiman_lipi, serif !important;*/
+    /*  font-family: 'Hind Siliguri', sans-serif;*/
+    /*font-family: 'Tiro Bangla', serif;*/
+    font-family: 'Anek Bangla', sans-serif;
+
+}
